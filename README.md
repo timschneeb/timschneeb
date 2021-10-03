@@ -14,6 +14,6 @@
 
 ______
 
-**Looking for a cheap VPS or web hoster?**
+**Looking for a reliable and cheap VPS or web hoster?**
 
-Get 20 EUR free credit by signing up using my referral link: https://hetzner.cloud/?ref=UxQ1cNJNyo1Q
+Get 20 EUR free credit at Hetzner by signing up using my referral link: https://hetzner.cloud/?ref=UxQ1cNJNyo1Q
