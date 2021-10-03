@@ -7,7 +7,8 @@
     💬 Ask me about anything on Telegram: <b><a href="https://t.me/ThePBone">@thepbone</a></b><br/>
   </p>
 
-  <p align="center">
+
+  <p align="center"><kbd>
     <a href="https://www.reddit.com/user/TheBone_">
       <img src="https://img.shields.io/reddit/user-karma/combined/TheBone_?label=Reddit%20karma" />
     </a>
@@ -19,7 +20,7 @@
     </a>
     <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthepbone&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits+%28since+June+2021%29&edge_flat=false" />
-    </a>
+    </a></kbd>
   </p>
 
   <br/>
