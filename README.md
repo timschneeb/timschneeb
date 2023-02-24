@@ -9,9 +9,6 @@
 
 
   <p align="center"><kbd>
-    <a href="https://www.reddit.com/user/TheBone_">
-      <img src="https://img.shields.io/reddit/user-karma/combined/TheBone_?label=Reddit%20karma" />
-    </a>
     <a href="https://t.me/ThePBone">
       <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" />
     </a>
