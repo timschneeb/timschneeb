@@ -7,6 +7,10 @@
     💬 Ask me about anything on Telegram: <b><a href="https://t.me/ThePBone">@thepbone</a></b><br/>
   </p>
 
+<p align="center">
+    <a href="https://ko-fi.com/H2H83E5J3"><img alt="Ko-Fi donation" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
+
 
   <p align="center"><kbd>
     <a href="https://t.me/ThePBone">
