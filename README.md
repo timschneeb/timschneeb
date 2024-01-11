@@ -13,9 +13,6 @@
 
 
   <p align="center"><kbd>
-    <a href="https://t.me/ThePBone">
-      <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" />
-    </a>
     <a href="https://gitlab.com/thepbone">
       <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://gitlab.com/thepbone" />
     </a>
