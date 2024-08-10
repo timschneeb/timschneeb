@@ -3,7 +3,7 @@
 
   * :dart: Focusing on General desktop/mobile development, UI design, and reverse engineering<br/>
   * 🌱 Currently learning C++, C# and Kotlin<br/>
-  * 💬 Ask me about anything on <a href="https://t.me/ThePBone">Telegram</a> (I may be slow to respond at the moment)<br/>
+  * 💬 Ask me about anything on <a href="https://t.me/timschneeb">Telegram</a> (I may be slow to respond at the moment)<br/>
 
   <a href="https://ko-fi.com/H2H83E5J3"><img alt="Ko-Fi donation" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 
@@ -15,7 +15,7 @@
 
   <p>
     <a href="https://coderstats.net/github/#thepbone">
-      <img src="https://github-readme-stats.vercel.app/api?username=ThePBone&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=timschneeb&show_icons=true" />
     </a>
   </p>
 
@@ -26,4 +26,6 @@
   <p/>
   <p align="center">
     Get 20 EUR free credit at Hetzner by signing up using my referral link: https://hetzner.cloud/?ref=UxQ1cNJNyo1Q
+    <br/>
+    <sub><i>The referral link helps me fund my server that hosts several web apps and APIs for some of my projects like GalaxyBudsClient or RootlessJamesDSP!</i></sub>
   <p/>
