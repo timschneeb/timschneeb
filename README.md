@@ -3,7 +3,7 @@
 
   * :dart: Focusing on General desktop/mobile development, UI design, and reverse engineering<br/>
   * 🌱 Currently learning C++, C# and Kotlin<br/>
-  * 💬 Ask me about anything on <a href="https://t.me/timschneeb">Telegram</a> (I may be slow to respond at the moment)<br/>
+  * 💬 Ask me about anything on <a href="https://t.me/timschneeb">Telegram</a> (I may be very slow to respond at the moment)<br/>
 
   <a href="https://ko-fi.com/H2H83E5J3"><img alt="Ko-Fi donation" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 
