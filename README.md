@@ -25,7 +25,7 @@
     <b>Are you looking for a cheap and reliable VPS or web hosting service?</b>
   <p/>
   <p align="center">
-    Get 20 EUR free credit at Hetzner by signing up using my referral link: https://hetzner.cloud/?ref=UxQ1cNJNyo1Q
-    <br/>
-    <sub><i>The referral link helps me fund my server that hosts several web apps and APIs for some of my projects like GalaxyBudsClient or RootlessJamesDSP!</i></sub>
+    You can get 20 EUR free credit at Hetzner by signing up using my referral link: https://hetzner.cloud/?ref=UxQ1cNJNyo1Q
+    <br/><br/>
+    <i>The referral link helps me fund my server that hosts several web apps and APIs for some of my projects like GalaxyBudsClient or RootlessJamesDSP!</i>
   <p/>
